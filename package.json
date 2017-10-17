@@ -1,0 +1,24 @@
+{
+  "name": "tejlehal",
+  "version": "1.0.0",
+  "description": "the Portfolio of Hartej Lehal",
+  "main": "app.js",
+  "author": "tejlehal",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "html": "^1.0.0",
+    "particle.js": "^1.0.7",
+    "particles.js": "^2.0.0",
+    "particlesjs": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "6.11.4"
+  }
+}
